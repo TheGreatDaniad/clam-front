@@ -1,0 +1,9 @@
+.navItem {
+  margin-right: 2.5rem;
+  font-size: 0.9rem;
+  color: #5c5c5c;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
